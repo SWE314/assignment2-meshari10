@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15098047)
 # Introduction:
 This assignment is designed to deepen your practical understanding of modern authentication technologies by focusing on two core objectives. The first is the implementation of Sign-In with Google using OAuth2/OpenID Connect. This task is aimed at enabling a secure and seamless authentication process by allowing users to log in with their Google accounts. The second objective is to incorporate WebAuthn for passwordless authentication. Together, these tasks underscore the advancement of your skills and knowledge in applying state-of-the-art authentication methods in real-world applications.
 
